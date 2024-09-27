@@ -20,7 +20,7 @@
 ## Let's Connect!
 - 📧 Email: [sridharsing14@gmail.com](mailto:sridharsing14@gmail.com)
 - 🌐 [Portfolio](https://sidhu-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/sidhu](https://www.linkedin.com/in/sridhar-sing-4b7b8a244/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sridhar-sing-4b7b8a244/)
 
 ## Achievements
 - 📜 JavaScript Algorithms and Data Structures Certificate - FreeCodeCamp
