@@ -4,9 +4,7 @@
 - 🌱 Currently learning System Design and preparing for coding interviews
 - 🎯 Goal: Join Google or Microsoft by January 2026
 
-## Projects
-- 🗺️ [My Trip](https://github.com/sidhu/my-trip) - A travel management app developed using React, Node.js, and MongoDB.
-- 📅 [Availability Scheduler](https://github.com/sidhu/availability-scheduler) - A scheduling tool for dynamic availability management.
+
 
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=radical)
 
