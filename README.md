@@ -14,6 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
+![MongoDb](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=mongodb&color=339933)
+
 
 ## Let's Connect!
 - 📧 Email: [sridharsing14@gmail.com](mailto:sridharsing14@gmail.com)
