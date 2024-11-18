@@ -7,9 +7,10 @@
 
 ---
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=radical)
-
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=radical)
+---
 
 
 ## Technologies & Tools
