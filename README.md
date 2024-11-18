@@ -5,7 +5,7 @@
 - 🎯 Goal: Join Google or Microsoft by January 2026
 
 
-
+---
 ![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=radical)
 
 
