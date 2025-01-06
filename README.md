@@ -1,34 +1,30 @@
-## Hi, I'm Sridhar 👋
-- 💻 Full Stack Developer specializing in MERN Stack
-- 🚀 Passionate about building web apps and contributing to open-source
-- 🌱 Currently learning System Design and preparing for coding interviews
-- 🎯 Goal: Join Google or Microsoft by January 2026
+# Hi there, I'm Sridhar 👋
 
+Welcome to my GitHub profile! I'm passionate about software development and love to learn new technologies. Here you'll find some of my personal projects, contributions, and experiments with various programming languages and frameworks.
 
----
-![Sridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=radical)
----
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
 
+## 📈 GitHub Stats
+![Sridharsing7570's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=radical)
----
 
+## 🌱 What I'm Currently Learning
+- Advanced algorithms and data structures
+- Cloud computing with AWS and Azure
+- Machine learning and AI with TensorFlow and PyTorch
 
-## Technologies & Tools
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)
-![MongoDb](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=mongodb&color=339933)
-![Mongoose](https://img.shields.io/badge/ODM-Mongoose-informational?style=flat&logo=moongoose&color=880000)
-![Express js](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=e2d922)
+## 📫 How to Reach Me
+- **Email:** sridharsing7570@example.com
+- **LinkedIn:** [linkedin.com/in/sridharsing7570](https://linkedin.com/in/sridharsing7570)
+- **Twitter:** [twitter.com/sridharsing7570](https://twitter.com/sridharsing7570)
 
+## ⚡ Fun Fact
+I love solving puzzles and playing chess in my free time!
 
-
-
-## Let's Connect!
-- 📧 Email: [sridharsing14@gmail.com](mailto:sridharsing14@gmail.com)
-- 🌐 [Portfolio](https://sidhu-portfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sridhar-sing-4b7b8a244/)
-
-## Achievements
-- 📜 JavaScript Algorithms and Data Structures Certificate - FreeCodeCamp
-- 🏆 Top 10% in LeetCode Weekly Contest
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding!
