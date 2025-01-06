@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sridharsing7570&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sridharsing7570&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
