@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=dark" alt="GitHub Stats" width="300" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sridharsing7570&theme=dark" alt="GitHub Streak" width="400" />
+    <img src="https://streak-stats.demolab.com?user=Sridharsing7570&theme=dark" alt="GitHub Streak" width="300" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" width="200" />
 </div>
 
 ## 🌱 Currently Learning
