@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I am a software developer with a passion for coding and continuous learning. Check out my projects and feel free to reach out for collaboration.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
+- **Languages:** JavaScript
+- **Frameworks/Libraries:** React, Node.js, Express
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
 
