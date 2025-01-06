@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I am a software developer with a passion for coding and continuous learning. Check out my projects and feel free to reach out for collaboration.
 
 ## 🛠️ Technologies & Tools
-- **Languages:**JavaScript
-- **Frameworks/Libraries:** React, Node.js, Express
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git,  VS Code
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
   <img src="https://streak-stats.demolab.com?user=Sridharsing7570&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
 - Cloud computing with AWS and Azure
