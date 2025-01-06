@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
 
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sridharsing7570&show_icons=true&theme=dark" alt="GitHub Stats" />
