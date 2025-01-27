@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 - Machine learning and AI with TensorFlow and PyTorch
 
 ## 📫 Contact Me
-- **Email:** sridharsing7570@example.com
-- **LinkedIn:** [linkedin.com/in/sridharsing7570](https://linkedin.com/in/sridharsing7570)
+- **Email:** sridharsing14@gmail.com
+- **LinkedIn:** [linkedin.com/in/sridharsing7570](https://www.linkedin.com/in/sridhar-sing-4b7b8a244/)
 - **Twitter:** [twitter.com/sridharsing7570](https://twitter.com/sridharsing7570)
 
 ## ⚡ Fun Fact
