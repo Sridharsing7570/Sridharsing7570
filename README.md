@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Sridharsing7570&theme=dark" alt="GitHub Streak" width="400" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharsing7570&layout=compact&theme=dark" alt="Top Languages" width="300" />
 </div>
 
 ## 🌱 Currently Learning
