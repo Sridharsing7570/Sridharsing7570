@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a software developer with a passion for coding and continuous learning. Check out my projects and feel free to reach out for collaboration.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript
+- **Languages:** JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Node.js, Express.js, Redux.js, Tailwind css, Chakra UI
 - **Databases:**PostgreSQL, MongoDB
 - **Tools:** Git/GitHub, Docker, VS Code
