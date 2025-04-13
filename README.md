@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Node.js, Express.js, Redux.js, Tailwind css, Chakra UI
-- **Databases:**PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git/GitHub, Docker, VS Code
 
 ## 📊 GitHub Stats
