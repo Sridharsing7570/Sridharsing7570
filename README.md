@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 - **Languages:** JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Node.js, Express.js, Redux.js, Tailwind css, Chakra UI
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git/GitHub, Docker, VS Code
+- **Tools:** Git/GitHub, Docker, VS Code, AWS
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -20,7 +20,9 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
 - Cloud computing with AWS and Azure
-- Next js
+- Machine learning and AI with TensorFlow and PyTorch
+- AWS
+- Next.js
 
 ## 📫 Contact Me
 - **Email:** sridharsing14@gmail.com
