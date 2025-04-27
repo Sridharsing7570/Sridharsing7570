@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for codin
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
 - Cloud computing with AWS and Azure
-- Machine learning and AI with TensorFlow and PyTorch
+- Next js
 
 ## 📫 Contact Me
 - **Email:** sridharsing14@gmail.com
